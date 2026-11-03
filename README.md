@@ -1,4 +1,4 @@
-# ChatGPT Workspace Agents: Claude Code plugin
+# ChatGPT Agent Builder (`chatgpt-agent-builder`)
 
 A Claude Code plugin for building and managing **ChatGPT Workspace Agents** (the agent builder
 in ChatGPT Business, Enterprise and Edu at `chatgpt.com/agents/studio`) from Claude Code.
@@ -47,11 +47,11 @@ in ChatGPT Business, Enterprise and Edu at `chatgpt.com/agents/studio`) from Cla
 ## Install
 
 ```
-/plugin install chatgpt-workspace-agents --marketplace danielrosehill/ChatGPT-Workspace-Agents-Claude-Plugin
+/plugin install chatgpt-agent-builder --marketplace danielrosehill/ChatGPT-Workspace-Agents-Claude-Plugin
 ```
 
 On older Claude Code: `/plugin marketplace add danielrosehill/ChatGPT-Workspace-Agents-Claude-Plugin`,
-then `/plugin install chatgpt-workspace-agents@chatgpt-workspace-agents`.
+then `/plugin install chatgpt-agent-builder@chatgpt-agent-builder`.
 
 Or clone it and point Claude Code at the folder with `--plugin-dir`.
 

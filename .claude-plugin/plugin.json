@@ -1,5 +1,5 @@
 {
-  "name": "chatgpt-workspace-agents",
+  "name": "chatgpt-agent-builder",
   "version": "1.0.0",
   "description": "Build and manage ChatGPT Workspace Agents (ChatGPT Business / Enterprise / Edu) from Claude Code by driving the agent builder at chatgpt.com/agents/studio in a browser: create, inspect, list, update (instructions, files, skills, apps) and share agents. There is no public API for editing agents, so this is browser automation and will break when the UI changes.",
   "author": { "name": "Daniel Rosehill", "url": "https://github.com/danielrosehill" },

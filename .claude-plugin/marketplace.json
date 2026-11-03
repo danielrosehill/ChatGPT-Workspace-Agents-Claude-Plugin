@@ -1,9 +1,9 @@
 {
-  "name": "chatgpt-workspace-agents",
+  "name": "chatgpt-agent-builder",
   "owner": { "name": "Daniel Rosehill", "url": "https://github.com/danielrosehill" },
   "plugins": [
     {
-      "name": "chatgpt-workspace-agents",
+      "name": "chatgpt-agent-builder",
       "source": "./",
       "description": "Build and manage ChatGPT Workspace Agents from Claude Code by driving the agent builder in a browser (no public API exists)."
     }
